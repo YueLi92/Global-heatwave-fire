@@ -1,7 +1,6 @@
 ;***************************************
-;* Code to draw the precipitation & circulation
-;* over the Amazon & Sahel regions
-;* by Yue Li 2019.10.10
+;* Code to produce figure 5b,5c
+;* future prediction of fire number & burned area
 ;***************************************
 ;---Load the NCL file that contains the gsn_* functions used below.
 load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_code.ncl"
