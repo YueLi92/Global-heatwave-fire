@@ -1,7 +1,6 @@
 ;***************************************
-;* Code to draw the precipitation & circulation
-;* over the Amazon & Sahel regions
-;* by Yue Li 2019.10.10
+;* Code to produce the mean heatwave duration
+;* of figure 1 (panel a - d)
 ;***************************************
 ;---Load the NCL file that contains the gsn_* functions used below.
 load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_code.ncl"
