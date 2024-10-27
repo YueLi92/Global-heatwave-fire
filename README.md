@@ -1,4 +1,7 @@
 # Global-heatwave-fire
+# Source code to produce main figures
+# Small dataset to demo the code can be found in each folder
+
 Source NCL & MATLAB code to support the analysis and mapping for all main figures.
 
 MATLAB version: R2018a, Windows system
