@@ -1,7 +1,7 @@
 This script generate the fire evolution with heatwave duration for all climate regions:
 fire_duration_scatter_plot.m
 
-Data used for this script can be found in the Zenodo repository
+Data used for this script can be found in the Zenodo repository (link available in Home directory of this project)
 "region_xth_ehf.zip"
 "region_all_fire_xth2.zip"
 "amplification_factor_htwv.mat"
