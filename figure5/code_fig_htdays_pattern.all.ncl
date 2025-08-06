@@ -1,7 +1,6 @@
 ;***************************************
-;* Code to draw the precipitation & circulation
-;* over the Amazon & Sahel regions
-;* by Yue Li 2019.10.10
+;* Code to produce figure5a
+;* future heatwave days increments
 ;***************************************
 ;---Load the NCL file that contains the gsn_* functions used below.
 load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_code.ncl"
