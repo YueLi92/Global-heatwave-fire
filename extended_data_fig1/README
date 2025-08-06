@@ -5,6 +5,5 @@ code_draw_fireseason_newmap2.ncl
 Data of the Climate region:
 world_extreme_region5.mat
 
-Burned area 90%:
-c0_genFireMap_newhtwvdef.m
+Code to draw Burned area 90%:
 si_fig3c.newhtwvdef.ncl
