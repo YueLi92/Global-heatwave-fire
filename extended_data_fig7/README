@@ -1,0 +1,15 @@
+script to analyze the FRP
+
+D:\Study\fires\Extreme_fires_relationship\2022.05.31.heatwave_newdef\2021.10.16.heatwv_nheatwv_comp3
+
+m20_1_fire_risk_increae_all.m
+
+1. amplification factor - only MODIS fire - FRP
+-> fig_amp_allregion_allfires.pdf
+
+part-b, pattern
+D:\Study\fires\Extreme_fires_relationship\2021.11.10.active_fire_modis\pattern\newregion3reg5_frp_new21
+m29_amp_pattern_data.m
+
+H:\GreenPlanet\USER\script\fires\extremes_fire\2021.11.17.pattern_amp\new_region4
+code_fig_firenbamp_pattern.mcd.frp.ncl
