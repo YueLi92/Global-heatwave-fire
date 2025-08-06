@@ -1,2 +1,7 @@
 Script to generate extended data fig. 8:
 f1_draw_curve_of_heatwave_days_newregion_reg51new21_revNat.m
+
+Data needed for this script are available from the Zenodo repository (link available in home directory of this project)
+"region_heatwave_proportion.zip" - ERA5 heatwave proportion data
+"CESM_LENS2_region_heatwave_proportion.zip" - CESM large ensemble heatwave proportion data
+"region_all_fire_xth2.zip" - regional fire data from satellite
