@@ -1,1 +1,6 @@
+Script to project future fire risk due to heatwaves:
+  extd_fig9.m
 
+To run the script smoothly, you'll additionally need two files that were stored on Zenodo:
+  --CESM_LENS2_region_heatwave_proportion.zip (each ensemble member's projected change in the proportion of heatwave events)
+  --CESM_LENS2__region_heatwave_proportion_7d_duration.zip (each ensemble member's projected change in the proportion of heatwave events, with more details for days 1 - 7 after the heatwaves start)
