@@ -85,7 +85,7 @@ for ci = 1 : 3
             l2 = line([0 dataamp(inddd(ri),i,2)],[36-cnt+1 36-cnt+1],'Color',[0 171 40]/255,'LineWidth',1.8);
             hold on,
             %         l3 = line([0 dataamp(ri,i,3)],[26-ri+1-0.2 26-ri+1-0.2],'Color',[255 216 50]/255,'LineWidth',1.8);
-            l3 = line([0 dataamp(inddd(ri),i,3)],[36-cnt+1-0.2 36-cnt+1-0.2],'Color',[0 240 0]/255,'LineWidth',1.8);
+            l3 = line([0 dataamp(inddd(ri),i,3)],[36-cnt+1-0.2 36-cnt+1-0.2],'Color',[196 164 132]/255,'LineWidth',1.8);
             hold on,
 % %             l4 = line([0 dataamp22(inddd(ri),i,1)],[35-cnt+1+0.4 35-cnt+1+0.4],'Color',[151 41 181]/255,'LineWidth',1.8);
             cnt = cnt +1;
