@@ -16,9 +16,10 @@ yvalues = {'NWN','NEN','WNA','CNA','ENA','NCA','SCA','CAR','NWS','NSA','NES','SA
 xvalues = {{'Fire number'}, {'Burned area'},{'Mean size'}};
 nbb = {'a','b','c'};
 id1 = [1 2 17 18 28 29 30 31];
-id2 = [3 4 5 6 19 32 33 34 35 36 38];
-id3 = [7 9 10 11 12 21 22 23 24 37 39 44,45];
-id4 = [14 25 26 40 41 42];
+% id2 = [3 4 5 6 19 32 33 34 35 36 38];
+id2 = [3 4 5 6 19 32 34 35];
+id3 = [7 9 10 11 12 21 22 23 24 37 38 44,45];
+id4 = [14 25 26 39 40 41 42];
 
 % % % msg1 = 'Boreal ecosystems include:'
 % % % yvalues{id1}
