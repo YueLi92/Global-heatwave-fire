@@ -1,5 +1,5 @@
 ;***************************************
-;* Extended Data Fig. 7b_d
+;* Extended Data Fig. 5b_d
 ;***************************************
 ;---Load the NCL file that contains the gsn_* functions used below.
 load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_code.ncl"
