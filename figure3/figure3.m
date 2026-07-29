@@ -110,7 +110,7 @@ for i = 1 : 3
         e1 = errorbar([ddmp3mean(:,ci) ddmp2mean(:,ci) ddmpmean(:,ci)],xx,zeros(4,3),[ddmp3std(:,ci) ddmp2std(:,ci) ddmpstd(:,ci)],'horizontal',...
             'LineStyle','none','Color','k');
     end
-    b1(1).FaceColor = [0 240 0]/255;
+    b1(1).FaceColor = [196 164 132]/255;
 %     b1(1).EdgeColor = 'none';
     b1(2).FaceColor = [0 171 40]/255;
 %     b1(2).EdgeColor = 'none';
